@@ -21,14 +21,14 @@ I am Jeyashri, thanks for visiting my GitHub page! Frontend developer  by backgr
 
 - 🔭 I'm currently working as a Frontend developer in India.
 - 📝 I write in-depth, short-form tech articles on [Medium](https://medium.com/@jeyashri30)
-- ✍️ Content creator at [Twitter](https://x.com/code_cupcakes), gearing up to share valuable insights with the global coding community.
+
 
 
 
 
 ## Get in Touch
 
-- Connect with me on [Twitter](https://x.com/irhsayeJ_J) [LinkedIn](www.linkedin.com/in/jeyashri-jeyamoorthi-635716236)
+- Connect with me on [LinkedIn](www.linkedin.com/in/jeyashri-jeyamoorthi-635716236)
   
 
 
