@@ -8,7 +8,7 @@ I am Jeyashri, thanks for visiting my GitHub page! Frontend developer  by backgr
 <!---- skills ---->
 ## Languages and Tools
  
- ![](https://img.shields.io/badge/Git-blue) ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/Javascript-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/NodeJS-blue)
+ ![](https://img.shields.io/badge/Git-blue) ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/Javascript-blue)![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/NodeJS-blue) ![](https://img.shields.io/badge/Tailwindcss-blue)
 
  <!--- some stats --->
  ## GitHub Stats
