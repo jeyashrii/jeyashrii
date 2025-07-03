@@ -28,7 +28,7 @@ I am Jeyashri, thanks for visiting my GitHub page! Frontend developer  by backgr
 
 ## Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/jeyashri-jeyamoorthi-635716236)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jeyashri-jeyamoorthi-635716236/)
   
 
 
