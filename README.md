@@ -20,7 +20,7 @@ I am Jeyashri, Frontend developer  by background, I work on fullstack technlogie
 ##  About Me
 
 - 🔭 I'm currently working as a Frontend developer in India.
-- 📝 I write in-depth, short-form tech articles on [Medium](https://medium.com/@jeyashri30)
+
 
 
 
