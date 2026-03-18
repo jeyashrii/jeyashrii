@@ -1,5 +1,4 @@
-<!--- header -->
-# Hey, I'm Jeyashri! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; 
+
 
 <!---- general intro--->
 I am Jeyashri, Frontend developer  by background, I work on fullstack technologies . 
@@ -17,18 +16,6 @@ I am Jeyashri, Frontend developer  by background, I work on fullstack technologi
 
 
 
-##  About Me
-
-- 🔭  a Frontend developer in India.
-
-
-
-
-
-
-## Get in Touch
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/jeyashri-jeyamoorthi-635716236/)
   
 
 
