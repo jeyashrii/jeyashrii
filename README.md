@@ -1,7 +1,7 @@
 
 
 <!---- general intro--->
-I am Jeyashri, Frontend developer  by background, I work on fullstack technologies . 
+
 <!---![jeyashrii's Stats](https://github-readme-stats.vercel.app/api?username=jeyashrii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)--->
 
 <!---- skills ---->
